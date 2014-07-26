@@ -3,7 +3,6 @@
 namespace GAE;
 
 require_once 'google/appengine/api/users/UserService.php';
-//require_once __DIR__.'/Auth.php';
 
 use google\appengine\api\users\UserService;
 use GAE\Auth;
