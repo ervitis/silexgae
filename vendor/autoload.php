@@ -4,7 +4,4 @@
 
 require_once __DIR__ . '/composer' . '/autoload_real.php';
 
-require_once __DIR__ . '/lib/GAE/LoginProvider.php';
-require_once __DIR__ . '/lib/GAE/Auth.php';
-
-return ComposerAutoloaderInite9e3b03a3e780e3f3584287954ce867f::getLoader();
+return ComposerAutoloaderInit11e05f1673182d25b26c971adbecef89::getLoader();
